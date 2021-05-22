@@ -1,0 +1,172 @@
+[
+  {
+    "id": "0",
+    "name": "Harry Potter and the Philosopher's Stone",
+    "trailersrc": "VyHV0BRtdxo",
+    "plot": "The boy Harry Potter comes to know that he is actually a wizard who has been accepted to Hogwartz and Here He meets his life long friends Hermione and Ron Weasley. Encounters his first time with Lord Voldemort",
+    "category": "Wizard",
+    "rating": "5.0"
+  },
+  {
+    "id": "1",
+    "name": "Harry Potter and the Chamber of Secrets",
+    "trailersrc": "1bq0qff4iF8",
+    "plot": "Hocrux of Lord Voldemort takes control Over Ginny Weasley who is sister of Ron. Harry and his friends finds the chamber of secret and also reavels the truth of a professor.",
+    "category": "Wizard",
+    "rating": "5.0"
+  },
+  {
+    "id": "2",
+    "name": "Harry Potter and the Prisoner of Askaban",
+    "trailersrc": "lAxgztbYDbs",
+    "plot": "Uncle of Harry Potter i.e. Sirius Black Excapes from the prison and with the help of Harry finds out the real culprit.",
+    "category": "Wizard",
+    "rating": "5.0"
+  },
+  {
+    "id": "3",
+    "name": "Harry Potter and the Goblet of Fire",
+    "trailersrc": "7lJ6Suyp1ok",
+    "plot": "Harry gets into trouble when a imposter of Mr.Moody drops Harry's Name into the fire of Goblet which is a competitoon held between the wizardary Institution. Lord Voldemort Comes back to life!",
+    "category": "Wizard",
+    "rating": "5.0"
+  },
+  {
+    "id": "4",
+    "name": "Harry Potter and the Order of the Phonix",
+    "trailersrc": "vz2_xS4TN6w",
+    "plot": "Harry Potter and Dumbledore's warning about the return of Lord Voldemort is not heeded by the wizard authorities who, in turn, look to undermine Dumbledore's authority at Hogwarts and discredit Harry.",
+    "category": "Wizard",
+    "rating": "5.0"
+  },
+  {
+    "id": "5",
+    "name": "Harry Potter and the Half-Blood Prince",
+    "trailersrc": "sg81Lts5kYY",
+    "plot": "Dumbledore and Harry Potter learn more about Voldemort's past and his rise to power. Meanwhile, Harry stumbles upon an old potions textbook belonging to a person calling himself the Half-Blood Prince.",
+    "category": "Wizard",
+    "rating": "5.0"
+  },
+  {
+    "id": "6",
+    "name": "Harry Potter and the Deadly Hollows Part-1",
+    "trailersrc": "MxqsmsA8y5k",
+    "plot": "After Voldemort takes over the Ministry of Magic, Harry, Ron and Hermione are forced into hiding. They try to decipher the clues left to them by Dumbledore to find and destroy Voldemort's Horcruxes.",
+
+    "category": "Wizard",
+    "rating": "5.0"
+  },
+  {
+    "id": "7",
+    "name": "Harry Potter and the Deadly Hollows Part-2",
+    "trailersrc": "mObK5XD8udk",
+    "plot": "Harry, Ron and Hermione race against time to destroy the remaining Horcruxes. Meanwhile, the students and teachers unite to defend Hogwarts against Lord Voldemort and the Death Eaters.",
+
+    "category": "Wizard",
+    "rating": "5.0"
+  },
+  {
+    "id": "8",
+    "name": "John Wick",
+    "trailersrc": "C0BMx-qxsP4",
+    "plot": "John Wick is an American neo-noir action-thriller media franchise created by screenwriter Derek Kolstad and owned by Summit Entertainment. Keanu Reeves plays John Wick, a retired hitman seeking vengeance for the killing of the dog given to him by his recently deceased wife, and for stealing his car.",
+    "category": "Fight",
+    "rating": "4.9"
+  },
+  {
+    "id": "9",
+    "name": "John Wick: Chapter 2",
+    "trailersrc": "XGk2EfbD_Ps",
+    "plot": "Renowned assassin John Wick sets out for Rome to duel with some of the deadliest killers to fulfil a vow he made. However, he soon learns that there is a huge bounty on his head.",
+    "category": "Fight",
+    "rating": "4.9"
+  },
+  {
+    "id": "10",
+    "name": "John Wick: Chapter 3",
+    "trailersrc": "M7XM597XO94",
+    "plot": "John Wick is declared excommunicado and a hefty bounty is set on him after he murders an international crime lord. He sets out to seek help to save himself from ruthless hitmen and bounty hunters.",
+    "category": "Fight",
+    "rating": "4.9"
+  },
+  {
+    "id": "11",
+    "name": "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
+    "trailersrc": "Tjii4S6APLk",
+    "plot": "A blacksmith joins forces with Captain Jack Sparrow, a pirate, in a bid to free the love of his life from Jack's associates, who kidnapped her suspecting she has the medallion.",
+    "category": "Pirate",
+    "rating": "4.8"
+  },
+  {
+    "id": "12",
+    "name": "Pirates of the Caribbean: Dead Man's Chest (2006)",
+    "trailersrc": "elqO-GNfStM",
+    "plot": "Captain Jack Sparrow seeks the heart of Davy Jones, a mythical pirate, in order to avoid being enslaved to him. However, others, including his friends Will and Elizabeth, want it for their own gain.",
+    "category": "Pirate",
+    "rating": "4.8"
+  },
+  {
+    "id": "13",
+    "name": "Pirates of the Caribbean: At World's End (2007)",
+    "trailersrc": "QBTL8A1F4j4",
+    "plot": "Captain Barbossa, Will Turner and Elizabeth Swann must save Jack Sparrow and form an alliance with the pirates around the world to fight against the East India Company.",
+    "category": "Pirate",
+    "rating": "4.8"
+  },
+  {
+    "id": "14",
+    "name": "Pirates of the Caribbean: On Stranger Tides (2011)",
+    "trailersrc": "9APt0C4W1yo",
+    "plot": "Captain Jack Sparrow sets sail in search of the legendary fountain of youth. His mission puts him up against a mysterious woman from his past, an old enemy Barbossa and the feared pirate, Blackbeard.",
+    "category": "Pirate",
+    "rating": "4.8"
+  },
+  {
+    "id": "15",
+    "name": "Pirates of the Caribbean: Dead Men Tell No Tales (2017)",
+    "trailersrc": "kgHqVfDhHnE",
+    "plot": "To break the curse of Flying Dutchman, Captain Jack Sparrow and Henry Turner embark on a mission to find the Trident of Poseidon. They also try to stop Captain Salazar who intends to rule the seas.",
+    "category": "Pirate",
+    "rating": "4.8"
+  },
+  {
+    "id": "16",
+    "name": "The Conjuring",
+    "trailersrc": "c4L1nPBFITU",
+    "plot": "The Perron family moves into a farmhouse where they experience paranormal phenomena. They consult demonologists, Ed and Lorraine Warren, to help them get rid of the evil entity haunting them.",
+    "category": "Horror",
+    "rating": "4.89"
+  },
+  {
+    "id": "17",
+    "name": "The Conjuring 2",
+    "trailersrc": "OEU-GYiuJmQ",
+    "plot": "Peggy, a single mother of four children, seeks the help of occult investigators Ed and Lorraine Warren when she and her children witness strange, paranormal events in their house.",
+    "category": "Horror",
+    "rating": "4.89"
+  },
+  {
+    "id": "18",
+    "name": "Annabelle",
+    "trailersrc": "ori2X7g_VPo",
+    "plot": "John and Mia Form are attacked by members of a satanic cult, who use their vintage doll as a conduit to make their life miserable. This unleashes a string of paranormal events in the Forms' residence.",
+    "category": "Horror",
+    "rating": "4.89"
+  },
+  {
+    "id": "19",
+    "name": "Annabelle: Creation",
+    "trailersrc": "RBX4gITPqUg",
+    "plot": "Samuel and Elle embed their daughter's spirit into a doll, only to realise it is a demon. Years later, they open their home to a nun and six orphan girls, one of whom finds the doll.",
+    "category": "Horror",
+    "rating": "4.89"
+  },
+  {
+    "id": "20",
+    "name": "Annabelle Comes Home",
+    "trailersrc": "bCxm7cTpBAs",
+    "plot": "Judy and her babysitter are left alone in her house after her parents leave to investigate a case. However, an unexpected guest sets Annabelle free, unleashing demonic activity in the house.",
+    "category": "Horror",
+    "rating": "4.89"
+  }
+]
