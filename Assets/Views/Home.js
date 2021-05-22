@@ -24,25 +24,28 @@ const Home = ({navigation}) => {
       fontWeight: 'bold',
       textAlign: 'center',
       color: text,
-      paddingBottom: 100,
     },
+    screenBottom: {flex: 1, justifyContent: 'flex-end', marginBottom: 36},
   });
   return (
     <View style={styles.container}>
       <Text style={styles.title}>Leo-Movies</Text>
       <Text style={styles.subtitle}>All favourite movies of Malay Bhavsar</Text>
-      <Btn
-        props={{
-          text: 'Movies',
-          onPress: () => navigation.navigate('MovieList'),
-        }}
-      />
-      <Btn
-        props={{
-          text: 'About Me',
-          onPress: () => navigation.navigate('AboutMe'),
-        }}
-      />
+      <Text style={styles.subtitle}>Made with 💛 by Malay :)</Text>
+      <View style={styles.screenBottom}>
+        <Btn
+          props={{
+            text: 'Movies',
+            onPress: () => navigation.navigate('MovieList'),
+          }}
+        />
+        <Btn
+          props={{
+            text: 'About Me',
+            onPress: () => navigation.navigate('AboutMe'),
+          }}
+        />
+      </View>
     </View>
   );
 };
