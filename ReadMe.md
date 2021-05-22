@@ -1,6 +1,6 @@
-### Leo Movies Mobile App :)
+# Leo Movies Mobile App :)
 
-# By Malay Bhavsar
+### By Malay Bhavsar
 
 This App is made using React-Native which showcases my favourite movies of all time :)
 <br/><br/>
