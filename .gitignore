@@ -57,8 +57,3 @@ buck-out/
 
 # CocoaPods
 /ios/Pods/
-
-# android and ios --> User
-/android/
-/ios/
-/__tests__/
